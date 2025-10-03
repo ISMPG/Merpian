@@ -1,6 +1,6 @@
 # Etymology & Brand Rationale
 
-hqllr is derived from the Old Norse word Hǫllr, meaning hall, great house, or guardian.
+Hqllr is derived from the Old Norse word Hǫllr, meaning hall, great house, or guardian.
 
 In Norse culture, the hall (hǫll) was more than a building: it was the heart of the community — a place of sovereignty, trust, memory, and gathering. Chiefs ruled from it, warriors feasted in it, and history was preserved within its walls.
 
