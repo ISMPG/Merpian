@@ -1,5 +1,12 @@
+# MERPIAN Limited
 
-# About Merpian
+[![GitHub Org](https://img.shields.io/badge/org-Merpian--Limited-black)](https://github.com/ISMPG)
+[![Status: Proprietary](https://img.shields.io/badge/status-Proprietary-red)]()
+[![Focus: Sovereign AI](https://img.shields.io/badge/focus-Sovereign%20AI-blue)]()
+
+---
+
+## About MERPIAN
 
 MERPIAN Limited (Modular Ecosystems for Research into Personal Intelligent Assistive Nodes) founded in 2019, is a research and development company building **sovereign, offline-first AI systems**. Our work bridges deep research in memory, indexing, and reasoning engines with practical tools for individuals, devices, and federated networks.
 We believe AI should serve people first — sovereign, verifiable, and under your control.
@@ -12,7 +19,7 @@ Our work explores knowledge engines, adaptive indexing, and resilient distribute
 
 ---
 
-## Our Projects
+## Our Current Projects
 
 ### Hqllr — Local. Sovereign. Verifiable.
 
@@ -59,6 +66,26 @@ Exploring today’s AI challenges and how Hqllr delivers a **sovereign-first, ve
 ---
 
 At Merpian, we combine **research-driven design with practical engineering** to create systems that empower individuals, enterprises, and communities to control their own AI and data futures.
+
+
+---
+
+## Status
+
+This repository is part of the **Merpian showcase**.  
+Some materials are published here for reference and transparency,  
+but the core systems remain **proprietary** to Merpian Limited.  
+
+- 🔒 Closed source by default  
+- 📄 Selective whitepapers, benchmarks, and demos may be published  
+- 💼 Full access is available only under **commercial or research agreements**  
+
+---
+
+## Contact
+ 
+🌐 [merpian.ltd](https://merpian.ltd) *(placeholder - not live yet)*
+
 
 
 
