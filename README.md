@@ -1,6 +1,7 @@
+
 # About Merpian
 
-Merpian Limited (founded 2019) is a research and development company focused on building **sovereign, federated AI systems**.  
+MERPIAN Limited (Modular Ecosystems for Research into Personal Intelligent Assistive Nodes) founded in 2019, is a research and development company building **sovereign, offline-first AI systems**. Our work bridges deep research in memory, indexing, and reasoning engines with practical tools for individuals, devices, and federated networks.
 We believe AI should serve people first — sovereign, verifiable, and under your control.
 
 Our work explores knowledge engines, adaptive indexing, and resilient distributed architectures that are:
