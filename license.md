@@ -15,6 +15,7 @@ in any form or by any means without the prior written permission of Merpian Limi
 
 All source code, core systems, and proprietary materials remain closed-source.  
 No license is granted for modification, redistribution, or derivative works.  
-
+<!--
 For research collaborations, enterprise partnerships, or commercial enquiries:  
 contact@merpian.com
+-->
