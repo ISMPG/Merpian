@@ -1,6 +1,6 @@
 # MERPIAN Limited
 
-[![GitHub Org](https://img.shields.io/badge/org-Merpian--Limited-black)](https://github.com/ISMPG)
+[![GitHub Org](https://img.shields.io/badge/org-Merpian--Limited-black)]()
 [![Status: Proprietary](https://img.shields.io/badge/status-Proprietary-red)]()
 [![Focus: Sovereign AI](https://img.shields.io/badge/focus-Sovereign%20AI-blue)]()
 
@@ -23,9 +23,9 @@ Our work explores knowledge engines, adaptive indexing, and resilient distribute
 
 ### Hqllr — Local. Sovereign. Verifiable.
 
-*A hall of knowledge. A guardian of truth. Built for people, families, and communities.*
+*A hall of knowledge. A guardian of truth. Built for businesses, communities and individuals.*
 
-Hqllr is more than software — it’s a **family-built knowledge engine and AI ecosystem** that puts people before platforms.  
+Hqllr is more than software — it’s a **knowledge engine and AI ecosystem** that puts people before platforms.  
 We believe knowledge should be:
 
 - **Local-first** — your data stays with you, always in your control.  
