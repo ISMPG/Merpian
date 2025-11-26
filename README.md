@@ -21,19 +21,19 @@ Our work explores knowledge engines, adaptive indexing, and resilient distribute
 
 ## Our Current Projects
 
-### LMouthful — Micro Language Engine
+### LMouthful™ — Micro Language Engine
 
-**LMouthful** is the core language engine inside Hǫllr/Hqllr — a tiny, cache-friendly model designed to run entirely on local hardware, from mobile phones, tablets, desktops to full Hǫllr nodes.
+**LMouthful™** is the core language engine inside Hǫllr™/Hqllr™ — a tiny, cache-friendly model designed to run entirely on local hardware, from mobile phones, tablets, desktops to full Hǫllr™ nodes.
 
 > A small mouthful of model. A large appetite for *your* data.
 
 **Why it exists**
 
-LMouthful is built to answer a simple question:
+LMouthful™ is built to answer a simple question:
 
 > “How far can we get with a small, structured, local model over *your* data — without GPUs, giant checkpoints, or cloud APIs?”
 
-Instead of a single giant black-box network, LMouthful sits on top of a layered memory system:
+Instead of a single giant black-box network, LMouthful™ sits on top of a layered memory system:
 
 - **GLTM – Global Long-Term Memory**  
   Deduplicated, domain-aware data store: the “truth layer” ingested from books, documents, notes, logs, etc.
@@ -44,7 +44,7 @@ Instead of a single giant black-box network, LMouthful sits on top of a layered 
 - **PSTM – Persona Short-Term Memory**  
   Per-persona working memory: recent queries, answers, retrieved snippets and feedback, used to keep responses coherent and context-aware.
 
-LMouthful then uses a compact language model (and planned tiny vector space) to generate short, grounded responses over that memory.
+LMouthful™ then uses a compact language model (and planned tiny vector space) to generate short, grounded responses over that memory.
 
 **Key properties**
 
@@ -65,20 +65,20 @@ LMouthful then uses a compact language model (and planned tiny vector space) to 
 - Local Q&A over personal or organisational knowledge bases  
 - Summarisation and explanation using only ingested data  
 - On-device assistants that must remain offline and under user control  
-- Embedded “micro-LM” behaviour in Hǫllr nodes and tools
+- Embedded “micro-LM” behaviour in Hǫllr™ nodes and tools
 
 **Status**
 
-LMouthful is currently under active R&D and used internally as the core language engine within the Hǫllr/Hqllr stack. Public demos, benchmarks and further technical details will be released as the project matures.
+LMouthful™ is currently under active R&D and used internally as the core language engine within the Hǫllr™/Hqllr™ stack. Public demos, benchmarks and further technical details will be released as the project matures.
 
 
 
 
-### Hqllr — Local. Sovereign. Verifiable.
+### Hqllr™ — Local. Sovereign. Verifiable.
 
 *A hall of knowledge. A guardian of truth. Built for businesses, communities and individuals.*
 
-Hqllr is more than software — it’s a **knowledge engine and AI ecosystem** that puts people before platforms.  
+Hqllr™ is more than software — it’s a **knowledge engine and AI ecosystem** that puts people before platforms.  
 We believe knowledge should be:
 
 - **Local-first** — your data stays with you, always in your control.  
